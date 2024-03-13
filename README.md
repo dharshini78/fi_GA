@@ -70,8 +70,6 @@ Blue is an innovative Metaverse built on the sharedeum chain, offering a unique 
 
 ---
 
-## Ethereum Smart Contract Deployment
-
 ### Hardhat Compiler and Deployment Commands
 
 Add your private key to the `hardhat.config` file.
